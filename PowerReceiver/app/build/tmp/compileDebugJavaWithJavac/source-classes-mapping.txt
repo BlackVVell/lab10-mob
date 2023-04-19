@@ -1,0 +1,6 @@
+com/android/fundamentals/powerreceiver/BuildConfig.java
+ com.android.fundamentals.powerreceiver.BuildConfig
+com/android/fundamentals/powerreceiver/CustomReceiver.java
+ com.android.fundamentals.powerreceiver.CustomReceiver
+com/android/fundamentals/powerreceiver/MainActivity.java
+ com.android.fundamentals.powerreceiver.MainActivity
